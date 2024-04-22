@@ -1,1 +1,1 @@
-Folder for configuration for vscode.
+Folder for vscode configuration.
